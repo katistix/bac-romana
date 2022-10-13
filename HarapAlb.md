@@ -1,10 +1,10 @@
-Ion Creangă, Harap-Alb
+Ion Creangă, "Povestea lui Harap-Alb"
 ===
-basm
+BASM
 
 * basm **cult**
 
-## Contextualizare
+## Context
 
 * publicat în "Convorbiri literare", 1877
 * predominant fabulos ⇒ basm **fantastic** (3 categorii: fantastic, nuvelistic, animalier)
