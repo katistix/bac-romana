@@ -1,4 +1,4 @@
-Ioan Slavici, Moara cu noroc
+Ioan Slavici, "Moara cu noroc"
 ===
 nuvelă: realistă, psihologică
 
