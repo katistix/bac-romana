@@ -34,7 +34,7 @@ Elementele registrului oral sunt prezente in scrisoare prin formula de adresare 
 
 > Argumentati de ce scrisoarea are strucrura de scrisoare informativa, raport de spionaj si scrisoare oficiala.
 
--   **Ipoteza:** In opinia mea, scrisoarea lui Neacsy din Campulung, 1521, intruneste conditiile corespondenrei informative si oficiale, deoarece prezinta atat structura specifica, cat si o serie de elemente lexicale oficiale.
+-   **Ipoteza:** In opinia mea, scrisoarea lui Neacsu din Campulung, 1521, intruneste conditiile corespondenrei informative si oficiale, deoarece prezinta atat structura specifica, cat si o serie de elemente lexicale oficiale.
 
 -   **Argumentul 1:** In primul rand, scrisoarea lui Neacsu este deopotriva document istoric si literar intrucat prezinta o serie de fapte din realitatea istorica, propriu-zisa, sub forma corespondentei. Mai mult, caracterul de scrisoare oficiala este sustinut prin structura textului si fomulele de adresare, care arata relatia dintre expeditor si destinatar. Astfel, Neacsu isi incepe scrisoarea cu adresarea "prea inteleptului si de Dumnezeu daruitului jupan Hanas Bengner din Brasov", si o finalizeaza cu "si Dumnezeu sa te bucure. Amin".
 
