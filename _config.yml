@@ -6,11 +6,8 @@ relative_links:
     collections: true
 include:
     - HarapAlb.md
-    - CONTRIBUTING.md
-    - README.md
+    - Ion.md
+    - MoaraCuNoroc.md
+    - OScrisoarePierduta.md
+    - ScrisoareaLuiNeacsu.md
     - LICENSE.md
-    - COPYING.md
-    - CODE_OF_CONDUCT.md
-    - CONTRIBUTING.md
-    - ISSUE_TEMPLATE.md
-    - PULL_REQUEST_TEMPLATE.md
