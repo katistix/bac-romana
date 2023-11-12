@@ -4,11 +4,11 @@ O colectie de notite personale pentru bacul la Romana
 
 ### Opere/Lectii
 
--   [Ion](./Ion)
--   [Moara cu Noroc](./Moara_cu_Noroc)
--   [Povestea lui Harap-Alb](./HarapAlb)
--   [O scrisoare pierduta](./OScrisoarePierduta)
--   [Scrisoarea lui Neacsu](./ScrisoareaLuiNeacsu)
+-   [Ion](./Ion.md)
+-   [Moara cu Noroc](./Moara_cu_Noroc.md)
+-   [Povestea lui Harap-Alb](./HarapAlb.md)
+-   [O scrisoare pierduta](./OScrisoarePierduta.md)
+-   [Scrisoarea lui Neacsu](./ScrisoareaLuiNeacsu.md)
 
 ---
 
